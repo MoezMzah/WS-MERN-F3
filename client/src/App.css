@@ -1,0 +1,11 @@
+.image,
+.myimage {
+  height: 350px;
+  width: 350px;
+}
+.myimage {
+  margin-top: 200px;
+}
+.image {
+  margin-top: 90px;
+}
